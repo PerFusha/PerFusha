@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Perfff1lya
+- 👋 Hi, I’m @perfff1lya
 - 👀 I’m interested in website creation
 - 🌱 I’m currently learning JS
 
